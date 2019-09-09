@@ -1,0 +1,80 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thunder Weather Widget Flat Responsive Widget Template :: w3layouts</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Thunder Weather Widget Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+        function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- //for-mobile-apps -->
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href='//fonts.googleapis.com/css?family=Comfortaa:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:400,100,100italic,300italic,300,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="main">
+    <h1>Thunder Weather Widget</h1>
+    <div class="content">
+        <div class="content-top">
+            <div class="content-left">
+                <h6>January 29th, 2015</h6>
+                <h2>15°</h2>
+            </div>
+            <div class="content-right">
+                <h5>Rainy</h5>
+                <img src="images/cloud.png" alt=" " />
+            </div>
+            <div class="content-last">
+                <h6>WED</h6>
+                <img src="images/sun1.png" alt="" />
+                <p>25°</p>
+            </div>
+            <div class="content-last">
+                <h6>THU</h6>
+                <img src="images/rain1.png" alt="" />
+                <p>18°</p>
+            </div>
+            <div class="content-last">
+                <h6>FRI</h6>
+                <img src="images/snow.png" alt="" />
+                <p>2°</p>
+            </div>
+            <div class="content-last">
+                <h6>SAT</h6>
+                <img src="images/sun1.png" alt="" />
+                <p>22°</p>
+            </div>
+            <div class="content-last">
+                <h6>SUN</h6>
+                <img src="images/snow.png" alt="" />
+                <p>-6°</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="strip"></div>
+        <div class="banner-bottom">
+
+            <div class="con-left">
+                <p><i></i>Algebuckina, SA</p>
+            </div>
+            <div class="con-right">
+                <a href="#"><img src="images/plus.png" alt="" /></a>
+            </div>
+            <div class="clear"></div>
+
+        </div>
+    </div>
+    <p class="footer">Copyright © 2016 Thunder Weather Widget. All Rights Reserved | Template by <a href="https://w3layouts.com/" target="_blank">w3layouts</a></p>
+</div>
+</body>
+</html>
